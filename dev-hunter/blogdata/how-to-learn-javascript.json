@@ -1,0 +1,6 @@
+{
+  "title": "How to Learn JavaScript",
+  "content": "JavaScript, often abbreviated as JS, is a versatile programming language and a core technology of the Web, alongside HTML and CSS. It is the driving force behind dynamic webpage behavior, making it essential for web developers. Over 99% of websites use JavaScript on the client side to create interactive and responsive user experiences.\n\nJavaScript's flexibility extends beyond the browser. With Node.js, it has become a powerful tool for server-side development, enabling full-stack JavaScript. This versatility, along with a rich ecosystem of libraries and frameworks, makes JavaScript a crucial skill for building sophisticated web applications.\n\nWhether you're developing simple webpages or complex single-page applications (SPAs), mastering JavaScript is key to becoming a successful web developer.",
+  "author": "Usama Rehan Farooqi",
+  "slug": "how-to-learn-javascript"
+}

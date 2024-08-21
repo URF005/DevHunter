@@ -1,0 +1,85 @@
+/* Base styles */
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2rem;
+  min-height: 100vh;
+}
+
+.title {
+  padding: 15px 0;
+}
+
+.popularBlogs {
+  margin-top: 45px;
+}
+
+.custom {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.content {
+  max-width: 40vw;
+}
+
+/* Responsive styles */
+@media (max-width: 1200px) {
+  .content {
+    max-width: 60vw;
+  }
+}
+
+@media (max-width: 992px) {
+  .content {
+    max-width: 80vw;
+  }
+
+  .main {
+    padding: 1.5rem;
+  }
+
+  .title {
+    padding: 10px 0;
+  }
+
+  .popularBlogs {
+    margin-top: 30px;
+  }
+}
+
+@media (max-width: 768px) {
+  .content {
+    max-width: 90vw;
+  }
+
+  .main {
+    padding: 1rem;
+  }
+
+  .title {
+    padding: 5px 0;
+  }
+
+  .popularBlogs {
+    margin-top: 20px;
+  }
+}
+
+@media (max-width: 576px) {
+  .main {
+    padding: 0.5rem;
+  }
+
+  .title {
+    padding: 3px 0;
+  }
+
+  .popularBlogs {
+    margin-top: 15px;
+  }
+}

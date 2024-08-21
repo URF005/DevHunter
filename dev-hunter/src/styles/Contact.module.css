@@ -1,0 +1,93 @@
+/* Container to center the form */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+/* Title Styling */
+.title {
+  font-family: "Inter", sans-serif;
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #333;
+  text-align: center;
+}
+
+/* Form Styling */
+.form {
+  width: 100%;
+  max-width: 500px; /* Set a max width for the form to center it */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Label Styling */
+.label {
+  font-weight: 600;
+  color: #555;
+  margin-bottom: 5px;
+}
+
+/* Form group styling */
+.row {
+  display: flex;
+  flex-direction: column; /* Stack label and input vertically */
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+.col-sm-2 {
+  width: 100%;
+}
+
+.col-sm-10 {
+  width: 100%;
+}
+
+/* Input and Textarea styling */
+.formControl {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 1rem;
+  color: #333;
+  background-color: #fff;
+  margin-top: 5px; /* Add space between label and input */
+}
+
+.formControl:focus {
+  border-color: #007bff;
+  outline: none;
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+/* Submit button styling */
+.btnPrimary {
+  background-color: #007bff;
+  border-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 1rem;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-top: 20px;
+  align-self: center; /* Center the submit button */
+}
+
+.btnPrimary:hover {
+  background-color: #0056b3;
+}
+
+/* Adjustments for mobile screens */
+@media (max-width: 768px) {
+  .title {
+    font-size: 1.5rem;
+  }
+}

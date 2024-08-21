@@ -1,0 +1,6 @@
+{
+  "title": "How to Learn Next.js",
+  "content": "Next.js is an open-source web development framework created by Vercel, designed to enable React-based web applications with advanced features like server-side rendering (SSR) and static site generation (SSG). These features make Next.js a powerful tool for building fast, scalable, and SEO-friendly web applications.\n\nOne of the key advantages of Next.js is its hybrid approach, allowing developers to choose between static and dynamic rendering on a per-page basis. This flexibility makes it easy to optimize performance and user experience according to project needs.\n\nNext.js simplifies development with its built-in file-based routing system and support for API routes, allowing you to handle backend logic directly within your application. Whether building a simple blog or a complex e-commerce platform, mastering Next.js will enable you to create high-performance applications with ease.",
+  "author": "Shahzaib Sawar",
+  "slug": "how-to-learn-nextjs"
+}

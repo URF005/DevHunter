@@ -1,0 +1,7 @@
+{
+    "title": "How to Learn Go",
+    "content": "Go, also known as Golang, is a statically typed, compiled programming language designed by Google. It is known for its simplicity, concurrency support, and performance. Go is widely used in cloud services, web servers, and distributed systems.\n\nTo learn Go, start with understanding the basic syntax, data types, and control structures. Then, explore advanced topics like goroutines, channels, and building web applications using Go's powerful standard library.",
+    "author": "Bilal Sheikh",
+    "slug": "how-to-learn-go"
+  }
+  

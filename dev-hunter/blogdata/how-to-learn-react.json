@@ -1,0 +1,6 @@
+{
+  "title": "How to Learn React",
+  "content": "React is a popular JavaScript library for building user interfaces, developed by Facebook. It allows developers to create reusable UI components and manage state efficiently. React's virtual DOM optimizes rendering, making applications fast and responsive.\n\nTo learn React, start with understanding the basics of JSX, components, props, and state. Once comfortable, explore more advanced topics like hooks, context API, and performance optimization techniques. React's ecosystem is vast, with libraries like React Router for routing and Redux for state management, making it a powerful tool for modern web development.",
+  "author": "Mahnoor",
+  "slug": "how-to-learn-react"
+}

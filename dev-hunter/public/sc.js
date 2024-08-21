@@ -1,0 +1,1 @@
+alert("Asalam-u-Alikum");

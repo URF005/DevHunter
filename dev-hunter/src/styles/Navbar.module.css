@@ -1,0 +1,63 @@
+.mainnav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 30px;
+  background-color: #333;
+  color: white;
+  position: relative;
+}
+
+.logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.hamburger {
+  display: none;
+  font-size: 1.8rem;
+  cursor: pointer;
+}
+
+.navlinks {
+  display: flex;
+  list-style: none;
+}
+
+.navlinks li {
+  margin: 0 24px;
+  font-weight: bold;
+  font-size: 1.2rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navlinks li a {
+  color: white;
+  text-decoration: none;
+}
+
+@media (max-width: 768px) {
+  .hamburger {
+    display: block; /* Show hamburger on small screens */
+  }
+
+  .navlinks {
+    display: none; /* Hide nav links by default on small screens */
+    flex-direction: column;
+    position: absolute;
+    top: 60px;
+    right: 0;
+    background-color: #333;
+    width: 100%;
+    text-align: center;
+    z-index: 1;
+  }
+
+  .navlinks.open {
+    display: flex; /* Show nav links when the hamburger menu is toggled */
+  }
+
+  .navlinks li {
+    margin: 15px 0; /* Adjust margin for vertical layout */
+  }
+}

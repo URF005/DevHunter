@@ -1,0 +1,6 @@
+{
+  "title": "How to Learn Ruby",
+  "content": "Ruby is a dynamic, open-source programming language known for its simplicity and productivity. It powers popular frameworks like Ruby on Rails, making it a great choice for web development. Ruby's elegant syntax and strong community support make it a joy to work with.\n\nTo learn Ruby, start with the basics of the language, including object-oriented programming concepts, strings, arrays, and hashes. Then, dive into Rails for web development, exploring topics like MVC architecture, routing, and database integration.",
+  "author": "Areeka",
+  "slug": "how-to-learn-ruby"
+}

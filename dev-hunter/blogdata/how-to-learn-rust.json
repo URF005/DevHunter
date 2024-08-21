@@ -1,0 +1,7 @@
+{
+    "title": "How to Learn Rust",
+    "content": "Rust is a systems programming language known for its focus on safety, performance, and concurrency. It offers memory safety without a garbage collector, making it ideal for low-level programming, embedded systems, and high-performance applications.\n\nTo learn Rust, start with understanding the ownership system, basic syntax, and data types. Then, explore advanced topics like lifetimes, concurrency, and building command-line tools or web applications with Rust's robust ecosystem.",
+    "author": "Zain Malik",
+    "slug": "how-to-learn-rust"
+  }
+  

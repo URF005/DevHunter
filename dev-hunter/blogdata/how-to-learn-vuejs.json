@@ -1,0 +1,7 @@
+{
+    "title": "How to Learn Vue.js",
+    "content": "Vue.js is a progressive JavaScript framework for building user interfaces. It is designed to be incrementally adaptable, meaning you can integrate it into projects piece by piece. Vue's simplicity, flexibility, and component-based architecture make it a favorite among developers.\n\nTo learn Vue.js, start with understanding its reactivity system, components, directives, and template syntax. Vue's ecosystem includes Vue Router for routing and Vuex for state management, making it suitable for both small and large-scale applications.",
+    "author": "Asad",
+    "slug": "how-to-learn-vuejs"
+  }
+  
